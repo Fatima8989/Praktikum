@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body{
+    background:  #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
+.page{
+    width: 1440px;
+    height: 1046px;
+}
+
+.title{
+    width: 365px;
+    height: 93px;
+    margin-left: 124px;
+    margin-top: 91px;
+    font-weight: 700;
+    font-size: 55px;
+    font-family: 'Roboto Slab';
+
+}
+
+.txt{
+    width: 662px;
+    height: 374px;
+    margin-left: 124px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.operator{
+    width: 314px;
+    height: 315px;
+    margin-left: 976px;
+    margin-top: -340px;
+}
+
+.montajer{
+    width: 232px;
+    height: 203px;
+    margin-left: 124px;
+    margin-top: 94px;
+}
+
+.zanatiya h3{
+    width: 150px;
+    height: 39px;
+    margin-left: 488px;
+    margin-top: -135px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.zanatiya p{
+    width: 150px;
+    height: 39px;
+    margin-left: 488px;
+    margin-top: 1px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.chasi h3{
+    width: 150px;
+    height: 39px;
+    margin-left: 733px;
+    margin-top: -98px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.chasi p{
+    width: 150px;
+    height: 39px;
+    margin-left: 733px;
+    margin-top: 1px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.nedelya h3{
+    width: 150px;
+    height: 39px;
+    margin-left: 976px;
+    margin-top: -98px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+
+.nedelya p{
+    width: 150px;
+    height: 39px;
+    margin-left: 976px;
+    margin-top: 1px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
